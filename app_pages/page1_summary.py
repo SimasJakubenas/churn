@@ -33,7 +33,7 @@ def page_summary():
         st.table(
             [
                 {
-                    "Variable": "customerid",
+                    "Variable": "customerID",
                     "Explain": "Unique customer identifier",
                     "Type of Data": "Numeric",
                     "Units": "Number"
