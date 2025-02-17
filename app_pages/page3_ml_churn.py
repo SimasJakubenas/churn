@@ -28,14 +28,12 @@ def page_churn():
         f"outputs/ml_classification/predict_churn/{version}/y_test.csv").values
 
     st.write("### ML Pipeline: Predict Prospect Churn")
-    # display pipeline training summary conclusions
     st.info(
         f"* The pipeline was tuned aiming at least 0.80 Recall on 'Yes Churn' class, "
         f"since we are interested in this project in detecting a potential churner. \n"
         f"* The model f1-score and accuracy is 86%."
     )
 
-    # show feature importance plot
     st.write("---")
     st.write("* The model was trained and all the features.")
     st.write(df.columns.to_list())
