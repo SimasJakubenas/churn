@@ -19,10 +19,10 @@ def page_suggestions():
     )
     
     st.info(
-        f"High Monthly Charges (Critical at $66+) :  "
-        f"* Introduce tiered pricing options with flexible features. \n"
-        f"* Offer loyalty discounts or special perks to customers nearing the critical range. \n"
-        f"* Improve customer support and proactively reach out to at-risk customers. \n"
+        f"Monthly charges :  \n"
+        f"* Investigate the plan options that start from 66% and up. \n"
+        f"* There is significant increase in churn at this level. \n"
+        f"* This indicates the customers dissatisfaction with a service (fiber-optic). \n"
     )
     
     st.info(
@@ -33,7 +33,7 @@ def page_suggestions():
     )
     
     st.info(
-        f"Customer Engagement in First 6 Months: \n"
+        f"Tenure: \n"
         f"* Improve onboarding experience to ensure customers quickly see value. \n"
         f"* Implement proactive check-ins at 1, 3, and 6 months via email, call, or chatbot. \n"
         f"* Offer 'early loyalty' discounts or rewards for staying beyond the 6-month mark. \n"

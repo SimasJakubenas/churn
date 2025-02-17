@@ -4,7 +4,7 @@ from app_pages.multipage import MultiPage
 from app_pages.page1_summary import page_summary
 from app_pages.page2_study import page_study
 from app_pages.page3_ml_churn import page_churn
-from app_pages.page4_bussiness_suggestions import page_suggestions
+from app_pages.page4_business_suggestions import page_suggestions
 
 
 app = MultiPage(app_name= "Telco Churnometer")
