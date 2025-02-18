@@ -1,4 +1,4 @@
-link to streamlit app - [https://mjjk9kfrskz9xmamcjequl.streamlit.app](telco-churn)
+link to streamlit app - [telco-churn]([telco-churn](https://mjjk9kfrskz9xmamcjequl.streamlit.app))
 
 ## Duomenų Paruošimas:
 
