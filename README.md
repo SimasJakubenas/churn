@@ -1,3 +1,5 @@
+link to streamlit app - [https://mjjk9kfrskz9xmamcjequl.streamlit.app](telco-churn)
+
 ## Duomenų Paruošimas:
 
 Importuokite "Telco Customer Churn" duomenų rinkinį.
